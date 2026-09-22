@@ -1,46 +1,33 @@
-# Kanstein Adventure Bot — Privacy Policy
+# Kanstein Adventure Bot — Terms of Service
 
 Last updated: September 22, 2026
 
-## What we store
-To run the game, the bot stores:
-- your Discord user ID
-- your chosen character name
-- game data (class, level, XP, HP, gold, skills, inventory, companions, cooldowns, idle claim time, clan membership)
-- clan names, owner IDs, and member IDs
+## 1. What this is
+Kanstein Adventure Bot is a hobby Discord RPG. It is not affiliated with Sword x Staff, Boltray Games, or Discord.
 
-The bot may also see basic command usage in servers where it is invited (slash command interactions).
+## 2. Eligibility
+You must follow Discord’s Terms of Service and be allowed to use bots in the server where the bot is added.
 
-## What we do not collect
-- email address
-- password
-- payment info
-- DMs, unless you message the bot directly
-- data from servers the bot is not in
+## 3. Fair use
+You agree not to:
+- exploit bugs for unfair advantage
+- spam commands in a way that disrupts servers
+- attempt to hack, scrape, or overload the bot
+- impersonate the bot or its operator
 
-## How it is used
-Data is used only to run the RPG (profiles, combat, shop, idle rewards, clans).
+The operator may reset characters, clans, or access if needed to keep the game playable.
 
-## Sharing
-Game data is not sold. It is not shared with advertisers. It may be visible in-server when you use public commands (for example `/profile` or `/clan info`).
+## 4. Saves and resets
+Progress is stored locally by the bot operator (player profiles, inventory, clans). Saves may be wiped for maintenance, bugs, or abuse. There is no guarantee of permanent progress.
 
-## Storage
-Saves live in files on the machine running the bot (`players.json`, `clans.json`), controlled by the bot operator.
+## 5. No payment / no official goods
+This bot does not sell real-world items. In-game gold, items, and companions have no cash value.
 
-## Retention
-Data stays until you use `/reset`, leave a clan, the operator deletes it, or the bot is shut down.
+## 6. Availability
+The bot may go offline at any time. No uptime is promised.
 
-## Your choices
-- `/reset` deletes your character
-- `/clan leave` removes clan membership
-- Kick/remove the bot from a server to stop it receiving that server’s commands
-- Ask the operator to delete your stored ID/save
+## 7. Changes
+These terms may change. Continued use means you accept the current terms.
 
-## Kids
-Do not use the bot if you are not allowed to use Discord.
-
-## Changes
-This policy may be updated. The date at the top will change when it does.
-
-## Contact
+## 8. Contact
 Ask the server owner or bot operator in the Discord server that runs the bot.
